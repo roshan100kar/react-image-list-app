@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+hosted url : https://inspiring-pony-d0a881.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
